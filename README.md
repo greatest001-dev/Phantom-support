@@ -15,4 +15,3 @@ Open `index.html` in your browser.
 - Edit `styles.css` to update styles.
 
 ## License
-MIT
